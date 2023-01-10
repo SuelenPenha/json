@@ -1,15 +1,63 @@
 {
-    "livrosRomance": [
+    "LivrosJuvenil": [
         {
             "nome": "Fazendo meu Filme",
             "autor": "Paula Pimenta",
+            "descricao": "",
             "ano": 2014,
-            "id": 1
+            "preco" :"",
+            "categoria_id": 1
         },
         {
-            "nome": "365 dias de sucesso",
+            "nome": "Minha Vida fora de Séri",
             "autor": "Paula Pimenta",
-            "ano": 2015
-        }
+            "descricao": "",
+            "ano": 2015,
+            "id":
+        },
+        {
+            "nome": "Minha Vida fora de Séri",
+            "autor": "Paula Pimenta",
+            "descricao": "",
+            "ano": 2015,
+            "id":
+        },
+        {
+            "nome": "Minha Vida fora de Séri",
+            "autor": "Paula Pimenta",
+            "descricao": "",
+            "ano": 2015,
+            "id":
+        },
+        
+        {
+            "nome": "Minha Vida fora de Séri",
+            "autor": "Paula Pimenta",
+            "descricao": "",
+            "ano": 2015,
+            "id":
+        },
+        {
+            "nome": "Minha Vida fora de Séri",
+            "autor": "Paula Pimenta",
+            "descricao": "",
+            "ano": 2015,
+            "id":
+        },
+        {
+            "nome": "Minha Vida fora de Séri",
+            "autor": "Paula Pimenta",
+            "descricao": "",
+            "ano": 2015,
+            "id":
+        },
+        {
+            "nome": "Minha Vida fora de Séri",
+            "autor": "Paula Pimenta",
+            "descricao": "",
+            "ano": 2015,
+            "id":
+        },
+        
     ]
 }

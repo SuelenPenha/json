@@ -1,63 +1,69 @@
 {
     "LivrosJuvenil": [
         {
-            "nome": "Fazendo meu Filme",
+            "nome": "Fazendo meu Filme 1",
             "autor": "Paula Pimenta",
-            "descricao": "",
-            "ano": 2014,
-            "preco" :"",
+            "descricao": "Fazendo meu Filme é um filme de comédia romântica brasileiro de uma adolecente (Fani) tem grande decição quando surge a oportunidade de fazer um intercâmbio ",
+            "ano": 2008,
+            "preco" :"32,00",
             "categoria_id": 1
         },
         {
-            "nome": "Minha Vida fora de Séri",
+            "nome": "Fazendo meu Filme 2",
             "autor": "Paula Pimenta",
-            "descricao": "",
-            "ano": 2015,
-            "id":
+            "descricao": "Sim, na Inglaterra! Longe do grande amorela passa por momentos de alegria, dor, saudade, tristeza e, mais do que isso, pode conhecer melhor a si mesma. ",
+            "ano": 2009,
+            "preco" :"35,00",
+            "categoria_id": 2
         },
         {
-            "nome": "Minha Vida fora de Séri",
+            "nome": "Fazendo meu Filme 3",
             "autor": "Paula Pimenta",
-            "descricao": "",
-            "ano": 2015,
-            "id":
+            "descricao": "Fani terá de fazer escolhas difíceis e corajosas ",
+            "ano": 2010,
+            "preco" :"40,00",
+            "categoria_id": 3
         },
         {
-            "nome": "Minha Vida fora de Séri",
+            "nome": "Fazendo meu Filme 4",
             "autor": "Paula Pimenta",
-            "descricao": "",
-            "ano": 2015,
-            "id":
-        },
-        
-        {
-            "nome": "Minha Vida fora de Séri",
-            "autor": "Paula Pimenta",
-            "descricao": "",
-            "ano": 2015,
-            "id":
+            "descricao": "Já se passaram 5 anos da separação, Fani e Léo já são adultos",
+            "ano": 2008,
+            "preco" :"43,00",
+            "categoria_id": 4
         },
         {
-            "nome": "Minha Vida fora de Séri",
-            "autor": "Paula Pimenta",
-            "descricao": "",
-            "ano": 2015,
-            "id":
+            "nome": "Em 360 dias de sucesso",
+            "autor": "Thalita Rebouças",
+            "descricao": "fala de sonhos, amizade, romance, amor não correspondido, traição e escolhas. E, claro, de música",
+            "ano": 2014,
+            "preco" : "30,00",
+            "categora_id": 5
         },
         {
-            "nome": "Minha Vida fora de Séri",
-            "autor": "Paula Pimenta",
-            "descricao": "",
-            "ano": 2015,
-            "id":
+            "nome": "A Culpa é Das Estrelas",
+            "autor": "John Green",
+            "descricao": "Hazel Grace, uma adolescente de 16 anos, diagnosticada com um câncer raro e terminal de tireoide com metástase nos pulmões",
+            "ano": 2012,
+            "categoria_id":6
         },
         {
-            "nome": "Minha Vida fora de Séri",
-            "autor": "Paula Pimenta",
-            "descricao": "",
-            "ano": 2015,
-            "id":
+            "nome": " Amor e Gelato",
+            "autor": "Jenna Evans Welch",
+            "descricao": "É uma história sobre amor, descobertas, maneiras de lidar com os segredos e perdas. ",
+            "ano": 2017,
+            "preco" :"43,00",
+            "categoria_id": 7
         },
+        {
+            "nome": "Vermelho, Branco e Sangue Azul",
+            "autor": "Jenna Evans Welch",
+            "descricao": " É um romance LGBT  gira em torno do personagem de Alex Claremont-Diaz, o filho da primeira presidenta dos Estados Unidos, e seu relacionamento com o príncipe Henry, um príncipe britânico. ",
+            "ano": 2019,
+            "preco" :"43,00",
+            "categoria_id": 7
+        }
+            
         
     ]
 }

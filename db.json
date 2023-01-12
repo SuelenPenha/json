@@ -1,5 +1,5 @@
 {
-    "LivrosJuvenil": [
+    "Livros-Juvenil-sagas": [
         {
             "nome": "Fazendo meu Filme 1",
             "autor": "Paula Pimenta",
@@ -31,6 +31,17 @@
             "ano": 2008,
             "preco" :"43,00",
             "categoria_id": 4
+        }
+
+    ],
+
+    "livros romanticos" :[
+        {
+            "nome": "A Culpa é Das Estrelas",
+            "autor": "John Green",
+            "descricao": "Hazel Grace, uma adolescente de 16 anos, diagnosticada com um câncer raro e terminal de tireoide com metástase nos pulmões",
+            "ano": 2012,
+            "categoria_id":6
         },
         {
             "nome": "Em 360 dias de sucesso",
@@ -39,13 +50,6 @@
             "ano": 2014,
             "preco" : "30,00",
             "categora_id": 5
-        },
-        {
-            "nome": "A Culpa é Das Estrelas",
-            "autor": "John Green",
-            "descricao": "Hazel Grace, uma adolescente de 16 anos, diagnosticada com um câncer raro e terminal de tireoide com metástase nos pulmões",
-            "ano": 2012,
-            "categoria_id":6
         },
         {
             "nome": " Amor e Gelato",
@@ -61,9 +65,37 @@
             "descricao": " É um romance LGBT  gira em torno do personagem de Alex Claremont-Diaz, o filho da primeira presidenta dos Estados Unidos, e seu relacionamento com o príncipe Henry, um príncipe britânico. ",
             "ano": 2019,
             "preco" :"43,00",
-            "categoria_id": 7
+            "categoria_id": 8
         }
             
         
+    ],
+    "livros de assasinatos":[
+
+        {
+            "nome": "O Homem De Giz",
+            "autor": "C.J. Tudor",
+            "descricao": " Eddie se esforça para superar o passado, até que um dia ele e os amigos de infância recebem um mesmo aviso. ",
+            "ano": 2018,
+            "preco" :"44,00",
+            "categoria_id": 9
+        },
+        {
+            "nome": "A Garota do Lago",
+            "autor": "Jenna Evans Welch",
+            "descricao": "Filha de um poderoso advogado, Becca estava no auge de sua vida. Atraída instintivamente pela notícia . ",
+            "ano": 2016,
+            "preco" :"43,00",
+            "categoria_id": 11
+        },
+        {
+            "nome": "O Que Aconteceu Com Annie",
+            "autor": "Jenna Evans Welch",
+            "descricao": "é o grande mistério do livro, mas a história conta com várias tramas secundárias, desencadeadas pelo que aconteceu com ela. . ",
+            "ano": 2019,
+            "preco" :"43,00",
+            "categoria_id": 12
+        },
+
     ]
 }

@@ -5,7 +5,7 @@
             "autor": "Paula Pimenta",
             "descricao": "Fazendo meu Filme é um filme de comédia romântica brasileiro de uma adolecente (Fani) tem grande decição quando surge a oportunidade de fazer um intercâmbio ",
             "ano": 2008,
-            "preco" :"32,00",
+            "preco": "32,00",
             "categoria_id": 1
         },
         {
@@ -13,7 +13,7 @@
             "autor": "Paula Pimenta",
             "descricao": "Sim, na Inglaterra! Longe do grande amorela passa por momentos de alegria, dor, saudade, tristeza e, mais do que isso, pode conhecer melhor a si mesma. ",
             "ano": 2009,
-            "preco" :"35,00",
+            "preco": "35,00",
             "categoria_id": 2
         },
         {
@@ -21,7 +21,7 @@
             "autor": "Paula Pimenta",
             "descricao": "Fani terá de fazer escolhas difíceis e corajosas ",
             "ano": 2010,
-            "preco" :"40,00",
+            "preco": "40,00",
             "categoria_id": 3
         },
         {
@@ -29,73 +29,109 @@
             "autor": "Paula Pimenta",
             "descricao": "Já se passaram 5 anos da separação, Fani e Léo já são adultos",
             "ano": 2008,
-            "preco" :"43,00",
+            "preco": "43,00",
             "categoria_id": 4
         }
-
     ],
-
-    "livros romanticos" :[
+    "livros infantil": [
+        {
+            "nome": "O Pequeno Príncipe.",
+            "autor": "Antoine de Saint-Exupér",
+            "descricao": "Piloto cai com seu avião no deserto e ali encontra uma criança loura e frágil.",
+            "ano": 1943,
+            "categoria_id": 5
+        },
+        {
+            "nome": "O Menino Maluquinho",
+            "autor": "Ziraldo Alves Pinto",
+            "descricao": "Mesmo sendo tão travesso, o menino maluquinho como é chamado, é um garoto muito inteligente que adora usar a sua imaginação",
+            "ano":1980 ,
+            "preco": "18,00",
+            "categora_id": 6
+        },
+        {
+            "nome": " Menina Bonita do Laço de Fita",
+            "autor": "Ana Maria Machado",
+            "descricao": "Um coelho branco se encanta com uma menina negra, que usava um laço de fita e tenta descobrir como faz para ser negro como ela ou ter filhos negros lindos como ela.. ",
+            "ano": 1986,
+            "preco": "25,00",
+            "categoria_id": 7
+        },
+        {
+            "nome": "Cabelo Ruim? A História de Três Meninas Aprendendo",
+            "autor": "Neusa Baptista Pinto",
+            "descricao": " A história da amizade entre três meninas negras e pobres, que enfrentam as manifestações preconceituosas com relação ao seu cabelo cresp. ",
+            "ano": 2020,
+            "preco": "23,00",
+            "categoria_id": 8
+        }
+    ],
+    "livros romanticos": [
         {
             "nome": "A Culpa é Das Estrelas",
             "autor": "John Green",
             "descricao": "Hazel Grace, uma adolescente de 16 anos, diagnosticada com um câncer raro e terminal de tireoide com metástase nos pulmões",
+            "preco": "32,00",
             "ano": 2012,
-            "categoria_id":6
+            "categoria_id": 9
         },
         {
             "nome": "Em 360 dias de sucesso",
             "autor": "Thalita Rebouças",
             "descricao": "fala de sonhos, amizade, romance, amor não correspondido, traição e escolhas. E, claro, de música",
             "ano": 2014,
-            "preco" : "30,00",
-            "categora_id": 5
+            "preco": "30,00",
+            "categora_id": 10
         },
         {
             "nome": " Amor e Gelato",
             "autor": "Jenna Evans Welch",
             "descricao": "É uma história sobre amor, descobertas, maneiras de lidar com os segredos e perdas. ",
             "ano": 2017,
-            "preco" :"43,00",
-            "categoria_id": 7
+            "preco": "43,00",
+            "categoria_id": 11
         },
         {
             "nome": "Vermelho, Branco e Sangue Azul",
             "autor": "Jenna Evans Welch",
             "descricao": " É um romance LGBT  gira em torno do personagem de Alex Claremont-Diaz, o filho da primeira presidenta dos Estados Unidos, e seu relacionamento com o príncipe Henry, um príncipe britânico. ",
             "ano": 2019,
-            "preco" :"43,00",
-            "categoria_id": 8
+            "preco": "43,00",
+            "categoria_id": 12
         }
-            
-        
     ],
-    "livros de assasinatos":[
-
+    "livros de suspense": [
         {
             "nome": "O Homem De Giz",
             "autor": "C.J. Tudor",
             "descricao": " Eddie se esforça para superar o passado, até que um dia ele e os amigos de infância recebem um mesmo aviso. ",
             "ano": 2018,
-            "preco" :"44,00",
-            "categoria_id": 9
+            "preco": "44,00",
+            "categoria_id": 13
         },
         {
             "nome": "A Garota do Lago",
             "autor": "Jenna Evans Welch",
             "descricao": "Filha de um poderoso advogado, Becca estava no auge de sua vida. Atraída instintivamente pela notícia . ",
             "ano": 2016,
-            "preco" :"43,00",
-            "categoria_id": 11
+            "preco": "43,00",
+            "categoria_id": 14
         },
         {
             "nome": "O Que Aconteceu Com Annie",
             "autor": "Jenna Evans Welch",
             "descricao": "é o grande mistério do livro, mas a história conta com várias tramas secundárias, desencadeadas pelo que aconteceu com ela. . ",
             "ano": 2019,
-            "preco" :"43,00",
-            "categoria_id": 12
+            "preco": "43,00",
+            "categoria_id": 15
         },
-
+        {
+            "nome": "Bird box",
+            "autor": "Jenna Evans Welch",
+            "descricao": " Em um mundo pós-apocalíptico, Malorie e seus filhos precisam chegar a um refúgio para escapar do Problema, criaturas que ao serem vistas fazem pessoas se tornarem extremamente violentas. ",
+            "ano": 2014,
+            "preco": "43,00",
+            "categoria_id": 16
+        }
     ]
 }
